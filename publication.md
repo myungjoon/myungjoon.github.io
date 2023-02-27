@@ -3,6 +3,8 @@ layout: page
 title: Publication
 ---
 
+An up-to-date list is available on Google Scholar
+
 † : equal contribution, * : corresponding author
 
 [8] N Kim, __M Kim__, J Jung, T Chang, S Jeon, J Shin*, ”Highly angle-sensitive and efficient optical metasurfaces
