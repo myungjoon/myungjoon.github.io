@@ -7,8 +7,12 @@ An up-to-date list is available on [Google Scholar](https://scholar.google.co.kr
 
 † : Equal contributions; * : Corresponding
 
+[11] __M Kim†__, J Park†, J Shin*, "Efficient Fourier neural operators by group convolution and channel shuffling", ICLR 2024 Workshop on AI4DifferentialEquations in Science, (2024)
+
+[10] __M Kim†__, N Kim†, J Shin*, "Realization of all two-dimensional Bravais lattices with metasurface-based interference lithography", Nanophotonics, (2024)
+
 [9] N Kim, __M Kim__, J Jung, T Chang, S Jeon, J Shin*, "Highly angle-sensitive and efficient optical metasurfaces
-with broken mirror symmetry", Nanophotonics, _in press_, (2023)
+with broken mirror symmetry", Nanophotonics, (2023)
 
 [8] __M Kim__, N Kim, J Shin, "Concurrent Inverse Design of Structured Light and Metasurface for Nanopatterning
 Process", Frontier in Optics (2022)
